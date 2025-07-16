@@ -4,6 +4,10 @@ public class Lab158_hierarchical_inheritance {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//Multiple inheritance and hybrid inheritance is not possible in java with classes
+		
+		//Hierarchical means one father with multiple children
 
 		Father f1 = new Father();
 		Ruhani r = new Ruhani();
